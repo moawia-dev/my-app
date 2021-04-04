@@ -32,7 +32,6 @@ const element = <div><h1>Hello, element</h1>
 ReactDOM.render(  
   <React.StrictMode>
     <App />,
-    element,
     </React.StrictMode>,
   document.getElementById('root')
 );
